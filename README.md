@@ -66,4 +66,6 @@ Verified assignment results:
 - Rust unit tests: **5 passed, 0 failed**.
 - Surfpool integration tests: **17 passed, 0 failed**.
 
+![Rust unit tests: 5 passed, 0 failed](docs/test-results.png)
+
 The tests cover reward claims, frozen NFT state, repeated claims, burn rewards, restaking, and collection count updates.
