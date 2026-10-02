@@ -5,4 +5,9 @@ target
 node_modules
 test-ledger
 .yarn
-/.surfpool/logs
+/.surfpool/
+
+.env
+.env.*
+!.env.example
+*-keypair.json

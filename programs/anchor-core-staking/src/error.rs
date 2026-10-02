@@ -16,4 +16,8 @@ pub enum ErrorCode {
     FreezePeriodNotElapsed,
     #[msg("Invalid rewards bps")]
     InvalidRewardsBps,
+    #[msg("Invalid staking reward tracking")]
+    InvalidRewardTracking,
+    #[msg("Invalid collection staking count")]
+    InvalidStakingCount,
 }
